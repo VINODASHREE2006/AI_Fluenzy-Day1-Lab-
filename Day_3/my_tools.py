@@ -74,5 +74,5 @@ if __name__ == "__main__":
     print(calculator("(12000 + 18000) * 0.9"))
     print(calculator("2 ** 10"))
     print(calculator("import os"))
-    print(read_webpage("notice.html")[:200])
+    print(read_webpage("Day_3/notice.html")[:200])
     print(read_webpage("no_such_file.html"))
