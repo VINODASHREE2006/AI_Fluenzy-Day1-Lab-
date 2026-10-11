@@ -1,0 +1,8 @@
+
+.env
+
+.venv/
+.venv311/
+PSLevel_1_Class/chroma_db/
+PSLevel_1_Class/chroma_db_backup/
+PSLevel_1_Class/chroma_test_db/
